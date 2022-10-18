@@ -14,7 +14,7 @@
 
 <hr>
 <h1 align="center">
- My 42 Piscine Grades
+✅ My 42 Piscine Grades
 </h1>
 <div align="center">
 <h3>Shell00</h3>
