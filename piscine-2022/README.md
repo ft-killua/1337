@@ -24,7 +24,7 @@
 
 ## My Piscine Grades
 <p align="center">
-C00
+<h1>C00</h1>
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9d5ri2i00210gmlhhorlng9/project/2678399" alt="hidhmmou's 42 C Piscine C 00 Score" /></a><br>
 C01
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9d5ri2i00210gmlhhorlng9/project/2685879" alt="hidhmmou's 42 C Piscine C 01 Score" /></a><br>
@@ -33,7 +33,7 @@ C02
 C03
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9d5ri2i00210gmlhhorlng9/project/2689294" alt="hidhmmou's 42 C Piscine C 03 Score" /></a><br>
 C04
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9d5ri2i00210gmlhhorlng9/project/2694444" alt="hidhmmou's 42 C Piscine C 04 Score" /></a>
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9d5ri2i00210gmlhhorlng9/project/2694444" alt="hidhmmou's 42 C Piscine C 04 Score" /></a><br>
 C05
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9d5ri2i00210gmlhhorlng9/project/2700786" alt="hidhmmou's 42 C Piscine C 05 Score" /></a><br>
 Exam 00
