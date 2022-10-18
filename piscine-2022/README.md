@@ -22,4 +22,7 @@
 	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/achrafelkhnissi/1337?color=brightgreen" />
 </p>
  
+<p align="center">
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9d5ri2i00210gmlhhorlng9/project/2708072" alt="hidhmmou's 42 C Piscine Rush 02 Score" /></a>
+[![hidhmmou's 42 C Piscine Exam 00 Score](https://badge42.vercel.app/api/v2/cl9d5ri2i00210gmlhhorlng9/project/2675896)](https://github.com/JaeSeoKim/badge42)
+</p>
