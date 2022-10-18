@@ -22,7 +22,8 @@
 	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/achrafelkhnissi/1337?color=brightgreen" />
 </p>
 
-## C Piscine C 00
+## My Piscine Grades
+C00
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9d5ri2i00210gmlhhorlng9/project/2678399" alt="hidhmmou's 42 C Piscine C 00 Score" /></a>
-## C Piscine Final Exam
+Final Exam
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9d5ri2i00210gmlhhorlng9/project/2713247" 			alt="hidhmmou's 42 C Piscine Final Exam Score" /></a>
