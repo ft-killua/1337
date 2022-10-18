@@ -23,6 +23,6 @@
 </p>
  
 <p align="center">
-	C Piscine C 00 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9d5ri2i00210gmlhhorlng9/project/2678399" alt="hidhmmou's 42 C Piscine C 00 Score" /></a>
+	<h4>C Piscine C 00</h4><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9d5ri2i00210gmlhhorlng9/project/2678399" alt="hidhmmou's 42 C Piscine C 00 Score" /></a>
 	<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9d5ri2i00210gmlhhorlng9/project/2713247" 			alt="hidhmmou's 42 C Piscine Final Exam Score" /></a>
 </p>
