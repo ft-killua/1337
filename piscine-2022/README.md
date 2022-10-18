@@ -13,8 +13,9 @@
 
 
 <hr>
-
-## ✅ My 42 Piscine Grades
+<h1 align="center">
+ My 42 Piscine Grades
+</h1>
 <div align="center">
 <h3>Shell00</h3>
 <a href="https://github.com/ft-killua/1337/tree/main/piscine-2022/Shell00"><img src="https://badge42.vercel.app/api/v2/cl9d5ri2i00210gmlhhorlng9/project/2671786" alt="hidhmmou's 42 C Piscine Shell 00 Score" /></a>
