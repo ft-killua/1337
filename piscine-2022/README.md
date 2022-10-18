@@ -1,3 +1,8 @@
+.sample {
+  text-transform: uppercase;
+  font: 1.5rem 'MutatorSans', sans-serif;
+  font-weight: 500;
+}
 <p align="center">
 	<a href="https://github.com/ft-killua"><img src="https://badge42.vercel.app/api/v2/cl9d5ri2i00210gmlhhorlng9/stats?cursusId=9&coalitionId=piscine" 	alt="hidhmmou's 42 stats" /></a>
 </p>
@@ -23,6 +28,6 @@
 </p>
  
 <p align="center">
-	C Piscine C 00<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9d5ri2i00210gmlhhorlng9/project/2678399" alt="hidhmmou's 42 C Piscine C 00 Score" /></a><br>
+	<div class = simple> C Piscine C 00</div><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9d5ri2i00210gmlhhorlng9/project/2678399" alt="hidhmmou's 42 C Piscine C 00 Score" /></a><br>
 	C Piscine Final Exam<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9d5ri2i00210gmlhhorlng9/project/2713247" 			alt="hidhmmou's 42 C Piscine Final Exam Score" /></a>
 </p>
