@@ -24,7 +24,10 @@
 
 ## My Piscine Grades
 <div align="center">
-<h3>C00</h3>
+<h3>Shell00</h3>
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9d5ri2i00210gmlhhorlng9/project/2671786" alt="hidhmmou's 42 C Piscine Shell 00 Score" /></a>
+<h3>Shell01</h3>
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9d5ri2i00210gmlhhorlng9/project/2675876" alt="hidhmmou's 42 C Piscine Shell 01 Score" /></a>
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9d5ri2i00210gmlhhorlng9/project/2678399" alt="hidhmmou's 42 C Piscine C 00 Score" /></a><hr>
 <h3>C01</h3>
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9d5ri2i00210gmlhhorlng9/project/2685879" alt="hidhmmou's 42 C Piscine C 01 Score" /></a><hr>
