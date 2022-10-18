@@ -6,7 +6,7 @@
 </p>
 <hr>
 <h1 align="center">
-	🖖 TOP 3 RANKED IN THE POOL 🏊
+	TOP 3 RANKED IN THE POOL 🏊
 </h1>
 
 ![1337](https://github.com/ft-killua/1337/blob/main/imgs/top%203%20pool%2007:08:2022%20benguerir.png)
