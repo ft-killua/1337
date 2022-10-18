@@ -9,9 +9,9 @@
 ![1337](https://github.com/ft-killua/1337/blob/main/imgs/top%203%20pool%2007:08:2022%20benguerir.png)
 
 <h3 align="center">
-	<a href="https://github.com/achrafelkhnissi/1337/tree/master/Piscine-2021">Piscine</a>
+	<a href="https://github.com/ft-killua/1337/tree/main/piscine-2022">Piscine</a>
 	<span> · </span>
-	<a href="https://github.com/achrafelkhnissi/1337/blob/master/42curses/README.md">Cursus</a>
+	<a href="https://github.com/ft-killua/1337/tree/main/42cursus">Cursus</a>
 </h3>
 
 <p align="center">
