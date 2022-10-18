@@ -36,6 +36,16 @@
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9d5ri2i00210gmlhhorlng9/project/2694444" alt="hidhmmou's 42 C Piscine C 04 Score" /></a><hr>
 <h3>C05</h3>
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9d5ri2i00210gmlhhorlng9/project/2700786" alt="hidhmmou's 42 C Piscine C 05 Score" /></a><hr>
+<h3>C06</h3>
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9d5ri2i00210gmlhhorlng9/project/2700788" alt="hidhmmou's 42 C Piscine C 06 Score" /></a><hr>
+<h3>C07</h3>
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9d5ri2i00210gmlhhorlng9/project/2706356" alt="hidhmmou's 42 C Piscine C 07 Score" /></a><hr>
+<h3>C08</h3>
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9d5ri2i00210gmlhhorlng9/project/2708546" alt="hidhmmou's 42 C Piscine C 08 Score" /></a><hr>
+<h3>C09</h3>
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9d5ri2i00210gmlhhorlng9/project/2716298" alt="hidhmmou's 42 C Piscine C 09 Score" /></a><hr>
+<h3>C11</h3>
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9d5ri2i00210gmlhhorlng9/project/2719807" alt="hidhmmou's 42 C Piscine C 11 Score" /></a><hr>
 <h3>Exam 00</h3>
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9d5ri2i00210gmlhhorlng9/project/2675896" alt="hidhmmou's 42 C Piscine Exam 00 Score" /></a><hr>
 <h3>Exam 01</h3>
