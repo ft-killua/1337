@@ -25,15 +25,15 @@
 ## My Piscine Grades
 <div align="center">
 <h3>Shell00</h3>
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9d5ri2i00210gmlhhorlng9/project/2671786" alt="hidhmmou's 42 C Piscine Shell 00 Score" /></a>
+<a href="https://github.com/ft-killua/1337/tree/main/piscine-2022/C00"><img src="https://badge42.vercel.app/api/v2/cl9d5ri2i00210gmlhhorlng9/project/2671786" alt="hidhmmou's 42 C Piscine Shell 00 Score" /></a>
 <h3>Shell01</h3>
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9d5ri2i00210gmlhhorlng9/project/2675876" alt="hidhmmou's 42 C Piscine Shell 01 Score" /></a>
+<a href="https://github.com/ft-killua/1337/tree/main/piscine-2022/C01"><img src="https://badge42.vercel.app/api/v2/cl9d5ri2i00210gmlhhorlng9/project/2675876" alt="hidhmmou's 42 C Piscine Shell 01 Score" /></a>
 <h3>C01</h3>
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9d5ri2i00210gmlhhorlng9/project/2678399" alt="hidhmmou's 42 C Piscine C 00 Score" /></a>
+<a href="https://github.com/ft-killua/1337/tree/main/piscine-2022/C02"><img src="https://badge42.vercel.app/api/v2/cl9d5ri2i00210gmlhhorlng9/project/2678399" alt="hidhmmou's 42 C Piscine C 00 Score" /></a>
 <h3>C01</h3>
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9d5ri2i00210gmlhhorlng9/project/2685879" alt="hidhmmou's 42 C Piscine C 01 Score" /></a>
+<a href="https://github.com/ft-killua/1337/tree/main/piscine-2022/C03"><img src="https://badge42.vercel.app/api/v2/cl9d5ri2i00210gmlhhorlng9/project/2685879" alt="hidhmmou's 42 C Piscine C 01 Score" /></a>
 <h3>C02</h3>
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9d5ri2i00210gmlhhorlng9/project/2685880" alt="hidhmmou's 42 C Piscine C 02 Score" /></a>
+<a href="https://github.com/ft-killua/1337/tree/main/piscine-2022/C04"><img src="https://badge42.vercel.app/api/v2/cl9d5ri2i00210gmlhhorlng9/project/2685880" alt="hidhmmou's 42 C Piscine C 02 Score" /></a>
 <h3>C03</h3>
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9d5ri2i00210gmlhhorlng9/project/2689294" alt="hidhmmou's 42 C Piscine C 03 Score" /></a>
 <h3>C04</h3>
